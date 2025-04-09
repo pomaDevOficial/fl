@@ -21,7 +21,7 @@ export default `<!doctype html>
 
 <body ngcm="">
   <app-root></app-root>
-<link rel="modulepreload" href="chunk-JCJIXIGU.js"><link rel="modulepreload" href="chunk-44CX672S.js"><link rel="modulepreload" href="chunk-2WISJEDF.js"><link rel="modulepreload" href="chunk-ODN5LVDJ.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="scripts-TZWH235K.js" defer=""></script><script src="main-HSFZCAW6.js" type="module"></script></body>
+<link rel="modulepreload" href="chunk-JCJIXIGU.js"><link rel="modulepreload" href="chunk-44CX672S.js"><link rel="modulepreload" href="chunk-2WISJEDF.js"><link rel="modulepreload" href="chunk-ODN5LVDJ.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="scripts-TZWH235K.js" defer=""></script><script src="main-AY2TNA6K.js" type="module"></script></body>
 
 </html>
 `;
